@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eddie</h1>
 <h3 align="center">Full stack developer</h3>
 
-- 🌱 I’m currently improving my **React skills**
-
-- 💬 Ask me about **web development**
-
-- 📫 How to reach me **eddiesr93@gmail.com**
-
-- ⚡ Fun fact **I'm a chess player**
+- 🌱 I’m currently improving my **Frontend skills**
 
 <p align="left">
 </p>
